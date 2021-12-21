@@ -12,6 +12,10 @@
  - Save it into a folder 
  - Run the file "Game.exe"
  - Enjoy the Game
+ 
+ # * Must Needed Requirements *
+ - Operating System (Windows 8 / 10 / 11)
+ - Visual Studio 13 and All necessary file related to it must be installed 
   
   # Here are some screenshot of the Game
   - Hope you like it
